@@ -1,0 +1,78 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14pt;
+}
+
+body{
+    width: 700px;
+    margin: 20px auto;
+    background: #f8f8f8;
+    border: 1px solid #888;
+}
+
+img{
+    border: 1px solid black;
+    margin-right: 15px;
+    -moz-box-shadow: 2px 2px 2px #888;
+    -webkit-box-shadow: 2px 2px 2px #888;
+    box-shadow: 2px 2px 2px #888;
+}
+
+.ui-input-text {
+    height:48px;
+}
+
+pre{
+    background: #f0ecec;
+    white-space: pre-wrap;
+}
+
+.center{
+    text-align: center;
+}
+
+.username{
+    text-align: center;
+    background-color: rgb(236, 226, 226);
+    color: black;
+    font-family: helvetica;
+    font-size: 20px;
+    padding: 4px;
+}
+
+.info{
+    font-style: italic;
+    margin: 40px 0px;
+    text-align: center;
+}
+
+.subhead{
+    font-weight: bold;
+}
+
+#used { 
+    float: left; 
+}
+
+#passed {
+    float: left;
+}
+
+#logo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 97px;
+    background-color: black;
+    color: rgb(251, 251, 251);
+}
+
+.taken{
+    color: red;
+}
+
+.available{
+    color: green;
+}
+
+
